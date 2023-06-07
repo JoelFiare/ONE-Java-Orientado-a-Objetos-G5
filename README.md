@@ -1,1 +1,3 @@
-# ONE-Java-Orientado-a-Objetos-G5
+# ONE Oracle Next Education - Java-Orientado-a-Objetos-G5 - Alura
+
+Ejercicios del curso.
