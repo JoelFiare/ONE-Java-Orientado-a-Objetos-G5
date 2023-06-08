@@ -1,4 +1,4 @@
-package java.primeros.pasos;
+package primeros.pasos;
 
 public class EjemploEnteros {
 
